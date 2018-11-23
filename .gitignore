@@ -19,3 +19,6 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
+
+# free sync files tool db
+.sync.ffs_db
